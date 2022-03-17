@@ -6,3 +6,4 @@
 - Trabajo de forma independiente, me dedico a la mecanica del automovil y conversion a GNC
 
 ![foto](alexis34.jpg)
+![foto] (alexiscodo.jpg)
