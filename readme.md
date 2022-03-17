@@ -5,4 +5,4 @@
 - Me gusta el motocross
 - Trabajo de forma independiente, me dedico a la mecanica del automovil y conversion a GNC
 
-![foto](alexis3.jpg)
+![foto](alexis34.jpg)
